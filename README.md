@@ -15,7 +15,7 @@ This software is provided "as is," without any warranties or guarantees of any k
 
 Users are advised to use this software in a lawful and ethical manner and to respect the privacy and rights of others.
 
-Please use this software responsibly and only in authorized and legal environments!
+**Please use this software responsibly and only in authorized and legal environments!**
 
 ## Installation
 
