@@ -24,7 +24,7 @@ void setup() {
     // Play the famous song
     DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
     DigiKeyboard.delay(600);
-    DigiKeyboard.print("https://www.youtube.com/tv#/watch/video/control?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&resume");
+    DigiKeyboard.print("https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley&autoplay=1");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
     DigiKeyboard.delay(200);
     DigiKeyboard.sendKeyStroke(KEY_F11);
