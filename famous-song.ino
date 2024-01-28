@@ -21,7 +21,7 @@ void setup() {
         }
     }
 
-    // Continue with the rest of the code
+    // Play the famous song
     DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
     DigiKeyboard.delay(600);
     DigiKeyboard.print("https://www.youtube.com/tv#/watch/video/control?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&resume");
@@ -31,5 +31,4 @@ void setup() {
 }
 
 void loop() {
-    // put your main code here, to run repeatedly:
 }
