@@ -2,7 +2,7 @@
 
 This repository includes several DigiSpark sketches designed for the Arduino IDE, leveraging the DigiKeyboard.h library to transform the DigiSpark into a programmable keyboard capable of executing various actions. This functionality falls under the category of Human Interface Device (HID), aiming to replicate the legitimate behavior of a keyboard. 
 
-<img src="[https://www.bifelectronic.com/arduino-main-board/299-ard-digispark-4250236813127.html](https://www.bifelectronic.com/5523-large_default/ard-digispark.jpg)" alt="digispark-photo" width="32" height="32">
+<img src="https://www.bifelectronic.com/5523-large_default/ard-digispark.jpg" alt="digispark-photo" width="32" height="32">
 
 The Digispark ATtiny85 is a microcontroller development board based on the ATtiny85 chip.
 
