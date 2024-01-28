@@ -28,6 +28,8 @@ void setup() {
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
     DigiKeyboard.delay(200);
     DigiKeyboard.sendKeyStroke(KEY_F11);
+    DigiKeyboard.delay(200);
+    DigiKeyboard.sendKeyStroke(KEY_SPACE);
 }
 
 void loop() {
