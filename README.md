@@ -25,7 +25,8 @@ In order to be able to program the DigisparkUSB using Arduino IDE, you have to a
 
 - **famous-song.ino:** this is a very basic sketch that opens and plays a very famous song to the victim computer. This is also can be used as a Proof of Concept (PoC).
 - **Win10-Backdoor.ino:** this sketch is capable of creating a backdoor on a Windows 10 machine by downloading the powercat executable.
-- **Dump-NTLM-Hashes.ino:** this sketch is cabalse of dumping the NTLM hashes presented in the victim computer and send it to the attackers machine in a zip format.
+- **Dump-NTLM-Hashes.ino:** this sketch is capable of dumping the NTLM hashes presented in the victim computer and send it to the attackers machine in a zip format.
+- **famous-blue-screen-of-death.ino:** this sketch tries to fool the victim into thinking that got the infamous blue screen of death.
 
 ## Contributing
 
