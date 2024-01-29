@@ -1,5 +1,7 @@
 #include "DigiKeyboard.h"
 
+#define KEY_ARROW_DOWN 0x51
+
 void setup() {
     /* Open the Windows Run Prompt */
     DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
